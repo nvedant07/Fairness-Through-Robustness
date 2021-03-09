@@ -25,7 +25,7 @@ python dependencies
 
 ### Datasets
 
-We use CIFAR-10, CIFAR-100, UTKFace and Adience for our analysis. See `/.data` for more information on how to download the datasets.
+We use CIFAR-10, CIFAR-100, UTKFace and Adience for our analysis. See `./data` for more information on how to download the datasets.
 
 ### Training Models
 
