@@ -4,8 +4,8 @@ Official code to replicate results in [Fairness Through Robustness: Investigatin
 
 Authors:
 
- * [Vedant Nanda](http://nvedant07.github.io/)
- * [Samuel Dooley](https://www.cs.umd.edu/~sdooley1/)
+ * [Vedant Nanda*](http://nvedant07.github.io/)
+ * [Samuel Dooley*](https://www.cs.umd.edu/~sdooley1/)
  * [Sahil Singla](https://scholar.google.co.in/citations?user=jjjbOI4AAAAJ&hl=en)
  * [Soheil Feizi](https://www.cs.umd.edu/~sfeizi/)
  * [John P. Dickerson](http://jpdickerson.com/)
